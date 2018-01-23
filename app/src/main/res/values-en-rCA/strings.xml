@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">JavaLabs eh</string>
+<string name="helloMsg">Hello World eh</string>
+<string name="btnTxt">I\'m a Button eh</string>
+</resources>

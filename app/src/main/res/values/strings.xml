@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JavaLabs</string>
+        <string name="helloMsg">Hello World</string>
+    <string name="btnTxt">I\'m a Button</string>
+</resources>
