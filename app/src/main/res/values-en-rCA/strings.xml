@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">JavaLabs eh</string>
-<string name="helloMsg">Hello World eh</string>
-<string name="btnTxt">I\'m a Button eh</string>
+    <string name="app_name">JavaLabs Eh</string>
+    <string name="helloMsg">Hello World Eh</string>
+    <string name="btnTxt">I\'m a Button Eh</string>
+    <string name="userNameMsg">Username Eh</string>
+    <string name="passwordMsg">Username Eh</string>
+    <string name="switchMsg">What does this do Eh?</string>
+    <string name="checkMsg">Checkbox Eh</string>
+    <string name="radioMsg">Radiobutton Eh</string>
+    <string name="loginBtnTxt">Login Eh</string>
+    <string name="ok">OK eh</string>
+    <string name="cancel">Cancel eh</string>
+    <string name="dialog_msg">Would you like to quit eh?</string>
+    <string name="dialog_title">Quit eh?</string>
+    <string name ="sChatBtn">Start Chat eh</string>
+    <string name ="sendBtn">Send eh</string>
 </resources>
