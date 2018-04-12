@@ -13,6 +13,10 @@
     <string name="dialog_msg">Would you like to quit?</string>
     <string name="dialog_title">Quit?</string>
     <string name="title_activity_chat_window">ChatWindow</string>
-    <string name ="sChatBtn">Start Chat</string>
-    <string name ="sendBtn">Send</string>
+    <string name="sChatBtn">Start Chat</string>
+    <string name="sendBtn">Send</string>
+    <string name="title_activity_weather">WeatherActivity</string>
+    <string name="wBtn">Check Weather</string>
+    <string name="messageText">Message = </string>
+    <string name="messageDetails">Message ID = </string>
 </resources>

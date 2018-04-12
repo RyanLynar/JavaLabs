@@ -26,6 +26,11 @@ public class StartActivity extends Activity {
            Intent  in = new Intent(this,ChatWindow.class);
            startActivity(in);
         });
+        Button weatherBtn= findViewById(R.id.wBtn);
+        weatherBtn.setOnClickListener(t->{
+            Intent in = new Intent(this,WeatherActivity.class);
+            startActivity(in);
+        });
     }
     @Override
     public void onResume(){

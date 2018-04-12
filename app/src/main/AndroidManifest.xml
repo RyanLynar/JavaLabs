@@ -2,9 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.ryan.javalabs">
 
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
     <uses-feature
         android:name="android.hardware.camera"
-        android:required="true"></uses-feature>
+        android:required="true" />
 
     <application
         android:allowBackup="true"
@@ -21,10 +23,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ListItemsActivity"></activity>
+        <activity android:name=".ListItemsActivity" />
         <activity
             android:name=".ChatWindow"
-            android:label="@string/title_activity_chat_window"></activity>
+            android:label="@string/title_activity_chat_window" />
+        <activity
+            android:name=".WeatherActivity"
+            android:label="@string/title_activity_weather" />
+        <activity android:name=".MessageDetails"></activity>
     </application>
 
 </manifest>
